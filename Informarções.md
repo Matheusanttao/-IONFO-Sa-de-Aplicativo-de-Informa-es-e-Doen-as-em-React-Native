@@ -23,7 +23,7 @@ Como Rodar o Projeto
 1.	Clone o repositório:
 bash
 Copiar código
-git clone (https://github.com/Matheusanttao/-IONFO-Sa-de-Aplicativo-de-Informa-es-e-Doen-as-em-React-Native)
+git clone https://github.com/Matheusanttao/-IONFO-Sa-de-Aplicativo-de-Informa-es-e-Doen-as-em-React-Native
 
 2.	Instale as dependências:
 bash
